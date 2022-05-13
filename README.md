@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-  Small proof of concept of how to get images from the bilibilicomics site from the API.
+  Small PoC of how to get images from the bilibilicomics site from the API.
 </p>
 
 <p align="center">
